@@ -29,7 +29,6 @@ npx hardhat compile
 4. Run the test cases
 ```
 npx hardhat test
-
 ```
 
 ### Authors
